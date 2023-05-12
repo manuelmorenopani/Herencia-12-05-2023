@@ -1,4 +1,4 @@
-package com.Herencia.modelo.presentacion.modelo;
+package com.softtek.modelos.modelosejercicio1;
 
 public class Circulo extends Ejercicio1{
     private double radio;

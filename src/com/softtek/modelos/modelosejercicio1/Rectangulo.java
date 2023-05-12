@@ -1,4 +1,4 @@
-package com.Herencia.modelo.presentacion.modelo;
+package com.softtek.modelos.modelosejercicio1;
 
 public class Rectangulo extends Ejercicio1{
     private double ancho;

@@ -1,4 +1,4 @@
-package com.Herencia.modelo.presentacion.modelo;
+package com.softtek.modelos.modelosejercicio1;
 
 public class Ejercicio1 {
     private int coordenadaX;

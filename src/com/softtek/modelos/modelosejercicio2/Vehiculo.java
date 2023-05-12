@@ -1,4 +1,4 @@
-package com.softtek.modelos.modelosejercicio1;
+package com.softtek.modelos.modelosejercicio2;
 
 public class Vehiculo {
     private String marca;

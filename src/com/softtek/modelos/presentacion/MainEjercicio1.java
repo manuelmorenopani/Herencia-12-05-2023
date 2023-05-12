@@ -1,8 +1,10 @@
-package com.Herencia.modelo.presentacion.presentacion;
+package com.softtek.modelos.presentacion;
 
-import com.Herencia.modelo.presentacion.modelo.Circulo;
-import com.Herencia.modelo.presentacion.modelo.Ejercicio1;
-import com.Herencia.modelo.presentacion.modelo.Rectangulo;
+
+
+import com.softtek.modelos.modelosejercicio1.Circulo;
+import com.softtek.modelos.modelosejercicio1.Ejercicio1;
+import com.softtek.modelos.modelosejercicio1.Rectangulo;
 
 import java.util.Scanner;
 
